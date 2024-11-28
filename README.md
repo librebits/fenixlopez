@@ -6,8 +6,9 @@ My name is Jordi (aka Fenix) López. I'm a software development/DevOps/SysOps ma
 <!-- Skills -->
 ## 🪄 [Skills](skills) 
 * GNU Linux, Debian, Ubuntu, SUSE, Red Hat, GitOps, Terraform, Docker, ansible...
+* Networking, Databases,...  LAMP and JAMstack.
 * Critical thinking, decision-making and problem solving skills. Team player !
-* When I have to code I prefer to do that with python,  bash, but lately I'm taking a look to [Elixir](https://elixir-lang.org/) and I ❤️ it
+* When coding I prefer to do that with Python, PHP or  Bash, but lately I'm taking a look to [Elixir](https://elixir-lang.org/) and I ❤️ it
 
 <!-- Technologies icons -->
 ## 🛠 [Technologies & Tools](technology-and-tools)
